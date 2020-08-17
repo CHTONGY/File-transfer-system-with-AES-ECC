@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="09a98218-1508-4a3f-93bf-c01757eff64a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZoAc2R107s7EoDsr8pJfTRH6AA" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yantong.filesys.server" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client" />
+      <recent name="$PROJECT_DIR$/server" />
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ClientGui">
+    <configuration name="Client" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yantong.filesys.client.Client" />
+      <module name="FileTransferSystemWithECCAndAES.client.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yantong.filesys.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientGui" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClientGui" />
+      <module name="FileTransferSystemWithECCAndAES.client-gui.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerGui" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ServerGui" />
+      <module name="FileTransferSystemWithECCAndAES.server-gui.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileTransferSystemWithECCAndAES [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="FileTransferSystemWithECCAndAES [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.ClientGui" />
+      <item itemvalue="Application.ServerGui" />
+      <item itemvalue="Gradle.FileTransferSystemWithECCAndAES [dependencies]" />
+      <item itemvalue="Gradle.FileTransferSystemWithECCAndAES [clean]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.FileTransferSystemWithECCAndAES [clean]" />
+        <item itemvalue="Application.ServerGui" />
+        <item itemvalue="Application.ClientGui" />
+        <item itemvalue="Gradle.FileTransferSystemWithECCAndAES [dependencies]" />
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09a98218-1508-4a3f-93bf-c01757eff64a" name="Default Changelist" comment="" />
+      <created>1585495148888</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585495148888</updated>
+      <workItem from="1585495150719" duration="23222000" />
+      <workItem from="1585581888760" duration="19996000" />
+      <workItem from="1585799241681" duration="92000" />
+      <workItem from="1585799355748" duration="783000" />
+      <workItem from="1585922332193" duration="2435000" />
+      <workItem from="1586054482692" duration="153000" />
+      <workItem from="1586163999397" duration="3911000" />
+      <workItem from="1586180071116" duration="5086000" />
+      <workItem from="1586221724402" duration="162000" />
+      <workItem from="1586221899486" duration="286000" />
+      <workItem from="1586273281572" duration="3594000" />
+      <workItem from="1586391114978" duration="4830000" />
+      <workItem from="1586408199467" duration="8058000" />
+      <workItem from="1586442804146" duration="91000" />
+      <workItem from="1586484482110" duration="18068000" />
+      <workItem from="1586776713365" duration="299000" />
+      <workItem from="1586777406595" duration="721000" />
+      <workItem from="1586784511401" duration="1887000" />
+      <workItem from="1586787229904" duration="631000" />
+      <workItem from="1586789188704" duration="4391000" />
+      <workItem from="1586794113560" duration="10000" />
+      <workItem from="1586829434944" duration="8684000" />
+      <workItem from="1586882690099" duration="353000" />
+      <workItem from="1586910069176" duration="722000" />
+      <workItem from="1586999066387" duration="205000" />
+      <workItem from="1587005954154" duration="1109000" />
+      <workItem from="1587340446683" duration="4867000" />
+      <workItem from="1588413739854" duration="10000" />
+      <workItem from="1588900468544" duration="440000" />
+      <workItem from="1589336099512" duration="1222000" />
+      <workItem from="1590810225057" duration="1383000" />
+      <workItem from="1590894921588" duration="235000" />
+      <workItem from="1597631343258" duration="86000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/client/src/main/java/com/yantong/filesys/client/TCPClient.java</url>
+          <line>114</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/client-gui/src/main/java/controller/ClientController.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/yantong/filesys/server/handle/FileHandler.java</url>
+          <line>100</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/client/src/main/java/com/yantong/filesys/client/handler/FileReadHandler.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/yantong/filesys/server/handle/FileHandler.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
